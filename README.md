@@ -9,6 +9,6 @@
 #### 四、工作时间
           三天。
 #### 五、知识点总结图
-          ![fail](https://github.com/Dai-Youwei/lab1/blob/master/%E6%8D%95%E8%8E%B7.PNG);
+          ![fail](lab1/捕获.PNG);
 #### 六，结论
           利用第三方已经完成的NuGet安装包能够更加方便地生成QrCode。对于用户的输入的参数要进行判断再执行相应操作。
