@@ -13,7 +13,7 @@ namespace lab1
 {
     class Program
     {
-        //将字符串转化为二维码
+        //将字符串转化为二维 码
         public void StringToQrCode(string str)
         {
             //校正，M表示15%校正
